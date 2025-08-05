@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Microservices, Kubernetes, and Advanced System Design**
 - 🛠 I work with **MERN Stack**, **Flask**, **Firebase**, **Docker**, **CI/CD**, and **AI/ML models**
-- 🔭 I’m building **EternIQ**, a smart search + AI assistant platform
 - 🧠 I’m passionate about **automation**, **clean code**, and **real-world problem-solving**
 - 🏆 I participated in **HackScript 4.0** and built a VR mini-project in Unity (**Fruit Ninja**)
 - 💼 Check out my major project: **SmartDent AI — AI-based dental diagnostic platform**
